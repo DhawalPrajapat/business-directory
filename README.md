@@ -74,16 +74,6 @@ npm run dev
 
 ---
 
-## 🛠️ Installation & Setup
-
-### 📌 Prerequisites
-
-- Node.js & npm
-- XAMPP or any local server with PHP & MySQL
-- Git
-
----
-
 ### 🔧 Backend Setup
 
 1. Open XAMPP and start **Apache** and **MySQL**
