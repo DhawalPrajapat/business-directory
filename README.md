@@ -38,6 +38,8 @@ business-directory/
 3. Import the SQL schema (if provided).
 4. Configure DB in `backend/config.php`.
 
+> **Required PHP Version**: PHP **7.4** or higher 
+
 ### 🌐 Frontend (Vue)
 ```bash
 cd frontend
